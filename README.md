@@ -1,6 +1,6 @@
  <div align="center">
 
-# 🟠 RCORE SOLUTIONS
+#  RCORE SOLUTIONS
 
 ### Technology Built Around Your Business.
 
